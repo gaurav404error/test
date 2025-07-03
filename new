@@ -1,0 +1,7 @@
+p=10000
+r=10
+t=3
+#calculate simple intrest
+si=(p*r*t)/100
+#display result
+print ("simple interest is",si)
