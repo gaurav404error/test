@@ -3,7 +3,7 @@ print(s.replace("world","python"))
 
 a="hello"
 b= "gaurav"
-print (a+""+b)
+print (a+" "+b)
 #f string
 name= "gaurav singh"
 age =  18

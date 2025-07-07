@@ -1,7 +1,20 @@
-p=10000
-r=10
-t=3
-#calculate simple intrest
-si=(p*r*t)/100
-#display result
-print ("simple interest is",si)
+a= "!!!!gaurav!!!!!!!"
+print(len(a))
+print(a)
+print(a.upper())
+print(a.lower())
+print(a.rstrip("!"))
+print(a.replace("gaurav","harry"))
+b="silver spoon"
+print(b.split("  ")) #splits the string at the whitespace
+a="hello"
+capa= a.capitalize()
+print(capa)
+#center
+str1="welcome o the console!!!"
+print(str1.center(60))
+str2="abarcaaaadaaagaaagahahha"
+countstr=str.count ("a")
+print (countstr)
+print(str1.endswith("!!!"))
+
